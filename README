@@ -1,5 +1,5 @@
 # Virtual-Memory
-Implemented process memory isolation, virtual memory, and some system calls in a tiny operating system
+Implemented process memory isolation, virtual memory, and some system calls in a tiny operating system in the kernel.c file
 
 1. Kernel Isolation	
 2. Isolated Address Spaces	
